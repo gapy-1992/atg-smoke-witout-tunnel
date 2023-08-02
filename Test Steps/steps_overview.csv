@@ -1,0 +1,18 @@
+Flow ID,Test Steps,Flow Priority
+4,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_positive_growth --> navigate to Page_positive-growth_
+step 3: At Page_positive-growth_ click on input_submit --> navigate to Page_wp-comments-post_php
+step 4: Add visual checkpoint at Page_wp-comments-post_php",High
+5,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_category_khoa_hoc_suc_khoe --> navigate to Page_category_khoa-hoc-suc-khoe_
+step 3: At Page_category_khoa-hoc-suc-khoe_ click on hyperlink_172_an_tho_danh_cho_lua_tuoi_nao --> navigate to Page_an-tho-danh-cho-lua-tuoi-nao_
+step 4: Add visual checkpoint at Page_an-tho-danh-cho-lua-tuoi-nao_",Medium
+2,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_category_social --> navigate to Page_category_social_
+step 3: Add visual checkpoint at Page_category_social_",Medium
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_top_thuong_hieu_my_pham_organic_tot_ --> navigate to Page_top-5-thuong-hieu-my-pham-organic-tot-nhat-the-gioi_
+step 3: Add visual checkpoint at Page_top-5-thuong-hieu-my-pham-organic-tot-nhat-the-gioi_",Medium
+3,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_172_bo_tu_duong_toc_va_co_the_tu_okame_t --> navigate to Page_bo-tu-duong-toc-va-co-the-tu-okame-that-su-co-xung-danh-my-pham-organic_
+step 3: Add visual checkpoint at Page_bo-tu-duong-toc-va-co-the-tu-okame-that-su-co-xung-danh-my-pham-organic_",Medium

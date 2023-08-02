@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_172_positive_growth --> navigate to Page_positive-growth_",
+        "step 3: At Page_positive-growth_ click on input_submit --> navigate to Page_wp-comments-post_php",
+        "step 4: Add visual checkpoint at Page_wp-comments-post_php"
+    ]
+}

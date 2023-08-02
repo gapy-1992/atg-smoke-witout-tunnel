@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_172_top_thuong_hieu_my_pham_organic_tot_ --> navigate to Page_top-5-thuong-hieu-my-pham-organic-tot-nhat-the-gioi_",
+        "step 3: Add visual checkpoint at Page_top-5-thuong-hieu-my-pham-organic-tot-nhat-the-gioi_"
+    ]
+}
